@@ -4,6 +4,7 @@
     2) npm i discord.js
     3) npm install -g nodemon 
     4) npm install dotenv
+    
 
     *token & prefix set in .env*
 */
